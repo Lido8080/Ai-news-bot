@@ -1,0 +1,34 @@
+name: AI News Bot
+
+on:
+  schedule:
+    # تشغيل كل 15 دقيقة (تقريباً، حسب ضغط سيرفرات GitHub)
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # يسمح لك بتشغيل البوت يدوياً للتجربة
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests deep-translator
+
+      - name: Run Bot
+        run: python bot_github_actions.py
+
+      - name: Save sent articles state
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add sent_articles.txt || echo "No changes"
+          git commit -m "Update sent articles [skip ci]" || echo "No changes"
+          git push
