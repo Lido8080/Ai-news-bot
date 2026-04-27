@@ -1,0 +1,41 @@
+name: AI News Bot
+
+on:
+  schedule:
+    # ØªØ´ØºÙŠÙ„ ÙƒÙ„ 15 Ø¯Ù‚ÙŠÙ‚Ø© (ØªÙ‚Ø±ÙŠØ¨Ø§Ù‹ØŒ Ø­Ø³Ø¨ Ø¶ØºØ· Ø³ÙŠØ±ÙØ±Ø§Øª GitHub)
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # ÙŠØ³Ù…Ø­ Ù„Ùƒ Ø¨ØªØ´ØºÙŠÙ„ Ø§Ù„Ø¨ÙˆØª ÙŠØ¯ÙˆÙŠØ§Ù‹ Ù„Ù„ØªØ¬Ø±Ø¨Ø©
+
+# âœ… Ø§Ù„Ø¥ØµÙ„Ø§Ø­ Ø§Ù„Ø£ÙˆÙ„: Ù…Ù†Ø­ ØµÙ„Ø§Ø­ÙŠØ© Ø§Ù„ÙƒØªØ§Ø¨Ø© Ø¹Ù„Ù‰ Ø§Ù„Ø±ÙŠØ¨Ùˆ
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          # âœ… Ø§Ù„Ø¥ØµÙ„Ø§Ø­ Ø§Ù„Ø«Ø§Ù†ÙŠ: Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø§Ù„ØªÙˆÙƒÙ† Ø§Ù„Ø±Ø³Ù…ÙŠ Ù„Ù„Ù€ checkout
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests deep-translator
+
+      - name: Run Bot
+        run: python bot_github_actions.py
+
+      - name: Save sent articles state
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add sent_articles.txt || echo "No changes"
+          git diff --staged --quiet || git commit -m "Update sent articles [skip ci]"
+          git push
