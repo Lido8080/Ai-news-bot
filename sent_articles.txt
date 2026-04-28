@@ -157,3 +157,13 @@ https://github.com/nusquama/n8nworkflows.xyz
 https://github.com/Nano-Collective/nanocoder
 https://github.com/langchain-ai/deepagentsjs
 https://github.com/langchain-ai/docs
+https://www.techradar.com/phones/iphone/can-we-please-talk-about-the-iphone-airs-controversial-light-gold-color
+https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/i-watched-a-joby-electric-air-taxi-take-off-and-land-in-new-york-city-and-now-i-cant-wait-for-our-uber-of-the-skies-future
+https://www.techradar.com/pro/they-cant-block-the-sky-ingenious-satellite-tv-hack-bypassing-irans-internet-blackout-while-the-web-goes-dark-activists-are-smuggling-gigabytes-of-data-through-ordinary-television-signals-to-keep-the-iranian-people-connected-to-the-world
+https://github.com/haifengl/smile
+https://github.com/rcarmo/piclaw
+https://github.com/Skyvern-AI/skyvern
+https://github.com/saturndec/waoowaoo
+https://github.com/Bitterbot-AI/bitterbot-desktop
+https://github.com/dyad-sh/dyad
+https://github.com/langchain-ai/langgraph
