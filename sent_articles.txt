@@ -167,3 +167,9 @@ https://github.com/saturndec/waoowaoo
 https://github.com/Bitterbot-AI/bitterbot-desktop
 https://github.com/dyad-sh/dyad
 https://github.com/langchain-ai/langgraph
+https://github.com/BlockRunAI/ClawRouter
+https://github.com/ZhuLinsen/daily_stock_analysis
+https://github.com/jo-inc/camofox-browser
+https://github.com/saffron-health/libretto
+https://github.com/skalesapp/skales
+https://github.com/simstudioai/sim
