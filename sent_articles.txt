@@ -20,3 +20,9 @@ https://github.com/spiceai/spiceai
 https://github.com/lakehq/sail
 https://github.com/f/prompts.chat
 https://github.com/vercel/ai
+https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/
+https://www.artificialintelligence-news.com/news/lightelligence-ipo-optical-interconnect-ai-infrastructure/
+https://github.com/sonos/tract
+https://github.com/ai-collection/ai-collection
+https://github.com/jingyaogong/minimind-v
+https://github.com/tphakala/birdnet-go
