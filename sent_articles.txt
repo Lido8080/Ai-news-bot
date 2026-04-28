@@ -145,3 +145,15 @@ https://github.com/openyak/openyak
 https://github.com/civitai/civitai
 https://github.com/huggingface/diffusers
 https://github.com/Arize-ai/phoenix
+https://aitnews.com/2026/04/29/%d8%a2%d8%a8%d9%84-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d8%a5%d8%aa%d8%a7%d8%ad%d8%a9-%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1-%d8%a7%d9%84%d8%b5%d9%88%d8%b1-%d8%a8%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84/
+https://www.techradar.com/pro/we-need-to-deliver-warfighting-capability-at-a-faster-rate-us-space-force-cancels-next-generation-gps-project-over-extensive-system-issues-and-an-insurmountable-timeline
+https://github.com/lemonade-sdk/lemonade
+https://github.com/Chaoses-Ib/IbInputSimulator
+https://github.com/apache/airflow
+https://github.com/superplanehq/superplane
+https://github.com/codigoencasa/builderbot
+https://github.com/botpress/botpress
+https://github.com/nusquama/n8nworkflows.xyz
+https://github.com/Nano-Collective/nanocoder
+https://github.com/langchain-ai/deepagentsjs
+https://github.com/langchain-ai/docs
