@@ -110,3 +110,17 @@ https://github.com/Mintplex-Labs/anything-llm
 https://github.com/cortexkit/opencode-magic-context
 https://github.com/langchain-ai/deepagents
 https://github.com/BerriAI/litellm
+https://openai.com/index/openai-on-aws
+https://zapier.com/blog/aiops-benefits
+https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/
+https://aitnews.com/2026/04/28/%d8%b5%d9%81%d9%82%d8%a9-%d8%b3%d8%b1%d9%8a%d8%a9-%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%b9%d9%82%d8%af-%d8%b5%d9%81%d9%82%d8%a9-%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a/
+https://aitnews.com/2026/04/28/%d8%a7%d8%b3%d8%a3%d9%84-%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8-%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%ae%d8%aa%d8%a8%d8%b1-%d8%a2%d9%84%d9%8a%d8%a9-%d8%a8%d8%ad%d8%ab-%d8%ac%d8%af%d9%8a%d8%af%d8%a9/
+https://aitnews.com/2026/04/28/%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d8%aa%d8%b7%d9%88%d9%91%d8%b1-%d8%ae%d8%af%d9%85%d8%a9-%d8%b3%d8%ad%d8%a7%d8%a8%d9%8a%d8%a9-%d8%ae%d8%a7%d8%b5%d8%a9-%d9%84%d9%86%d8%b3%d8%ae-%d8%a7%d9%84%d9%85/
+https://www.techradar.com/audio/audio-streaming/pro-ject-just-launched-a-tiny-box-to-turn-any-passive-speakers-wireless
+https://www.techradar.com/pro/the-data-should-be-a-wake-up-call-report-finds-cybersecurity-workers-feel-underpaid-undervalued-and-overstressed-and-thats-putting-everyone-at-risk
+https://github.com/xenodium/agent-shell
+https://github.com/yvgude/lean-ctx
+https://github.com/glitternetwork/pinme
+https://github.com/rundeck/rundeck
+https://github.com/appium/appium
+https://github.com/spantaleev/matrix-docker-ansible-deploy
