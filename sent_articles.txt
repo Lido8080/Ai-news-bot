@@ -16,3 +16,6 @@ https://github.com/alvinreal/awesome-opensource-ai
 https://github.com/0xPlaygrounds/rig
 https://github.com/simstudioai/sim
 https://github.com/nautechsystems/nautilus_trader
+https://github.com/spiceai/spiceai
+https://github.com/lakehq/sail
+https://github.com/f/prompts.chat
