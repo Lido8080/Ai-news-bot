@@ -213,3 +213,16 @@ https://github.com/the-open-agent/openagent
 https://github.com/olimorris/codecompanion.nvim
 https://github.com/mudler/LocalAI
 https://github.com/the-open-agent/openagent
+https://openai.com/index/cybersecurity-in-the-intelligence-age
+https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/
+https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/
+https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/
+https://www.techradar.com/pro/why-insurance-innovation-ambitions-keep-stalling
+https://www.techradar.com/pro/the-ai-illusion-why-businesses-are-spending-big-but-fixing-nothing
+https://github.com/grab/cursor-talk-to-figma-mcp
+https://github.com/vllm-project/vllm
+https://github.com/ThinkWatchProject/ThinkWatch
+https://github.com/grab/cursor-talk-to-figma-mcp
+https://github.com/simple-acme/simple-acme
+https://github.com/elizaOS/eliza
+https://github.com/PurpleAILAB/Decepticon
