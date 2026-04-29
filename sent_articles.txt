@@ -279,3 +279,17 @@ https://github.com/yeahhe365/AMC-WebUI
 https://github.com/JetBrains/koog
 https://github.com/aegra/aegra
 https://github.com/langchain-ai/langchain-google
+https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/
+https://aitnews.com/2026/04/29/%d8%a2%d8%a8%d9%84-%d8%aa%d8%a8%d8%ad%d8%ab-%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d8%aa%d9%82%d9%86%d9%8a%d8%a9-magsafe-%d9%81%d9%8a-%d8%a2%d9%8a%d9%81%d9%88%d9%86/
+https://aitnews.com/2026/04/29/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%aa%d9%8a%d8%ad-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d8%ac%d8%a7%d9%87%d8%b2%d8%a9-%d9%84%d9%84%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d9%85%d8%a8/
+https://www.techradar.com/pro/security/is-this-the-largest-breach-in-football-history-hackers-allegedly-breach-cristiano-ronaldos-saudi-team-and-afc-governing-body-leak-passports-contracts-and-emails-online
+https://github.com/ray-project/ray
+https://github.com/rtk-ai/rtk
+https://github.com/truffle-ai/dexto
+https://github.com/BastilleBSD/bastille
+https://github.com/Listenarrs/Listenarr
+https://github.com/fastlane/fastlane
+https://github.com/ErlichLiu/Proma
+https://github.com/ggozad/oterm
+https://github.com/PlanExeOrg/PlanExe
+https://github.com/leejet/stable-diffusion.cpp
