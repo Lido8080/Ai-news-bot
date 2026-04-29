@@ -226,3 +226,15 @@ https://github.com/grab/cursor-talk-to-figma-mcp
 https://github.com/simple-acme/simple-acme
 https://github.com/elizaOS/eliza
 https://github.com/PurpleAILAB/Decepticon
+https://zapier.com/blog/how-to-use-notion-ai
+https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/
+https://aitnews.com/2026/04/29/%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%aa%d9%8f%d9%86%d9%81%d9%82-%d9%88%d8%a3%d9%87%d8%af%d8%a7%d9%81-%d8%aa%d9%8f%d9%81%d9%82%d8%af-openai-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d9%86%d9%85%d9%88/
+https://www.techradar.com/pro/the-creatives-are-about-to-become-more-powerful-than-anyone-expected-freepiks-relaunch-marks-a-wider-industry-shift-to-all-in-one-ai-driven-content-creator-software-and-lowering-the-barrier-of-creativity-means-beginners-have-never-had-it-so-good
+https://www.techradar.com/cameras/mirrorless-cameras/adorama-kicks-off-massive-nikon-sale-including-record-low-prices-on-the-z6-iii-and-my-favorite-camera-from-last-year
+https://www.techradar.com/pro/security/an-unauthorized-actor-accessed-certain-vimeo-user-and-customer-data-vimeo-confirms-security-incident-blames-attack-on-anodot-breach
+https://github.com/nexu-io/open-design
+https://github.com/usebruno/bruno
+https://github.com/HolmesGPT/holmesgpt
+https://github.com/EtienneLescot/n8n-as-code
+https://github.com/langchain4j/langchain4j
+https://github.com/langchain4j/langchain4j
