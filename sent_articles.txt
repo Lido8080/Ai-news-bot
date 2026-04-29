@@ -306,3 +306,14 @@ https://github.com/appsmithorg/appsmith
 https://github.com/aden-hive/hive
 https://github.com/pixeltable/pixeltable
 https://github.com/KudoAI/chatgpt.js
+https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/
+https://aitnews.com/2026/04/30/%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d9%8a%d8%b2%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d8%af%d8%af-%d8%a7%d9%84%d9%85%d9%8f%d8%ae/
+https://aitnews.com/2026/04/30/%d8%a2%d8%a8%d9%84-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d8%a5%d8%b6%d8%a7%d9%81%d8%a9-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%b3%d9%8a%d8%b1%d9%8a-%d8%a7%d9%84%d8%b0%d9%83%d9%8a%d8%a9-%d8%a5%d9%84%d9%89/
+https://www.techradar.com/pro/security/chaining-vulnerabilities-is-the-hallmark-of-a-sophisticated-attack-750-000-websites-must-be-patched-as-microsofts-popular-open-source-dotnetnuke-cms-hit-by-an-xss-flaw-that-allows-attackers-to-hijack-admin-sessions-and-take-over-entire-web-servers
+https://www.techradar.com/pro/the-storm-is-here-why-you-and-your-neighbors-may-be-paying-multibillion-dollar-bill-for-ai-data-centers-right-now-but-that-may-not-last-long-as-more-us-states-join-revolt-against-unjust-socialist-approach-to-electricity-bills
+https://www.techradar.com/pro/spacexs-theorized-data-centers-in-space-face-significant-technical-complexity-and-unproven-technologies-and-the-unpredictable-environment-of-space-means-they-may-not-be-commercially-viable
+https://github.com/sgl-project/sglang
+https://github.com/OpenHands/OpenHands
+https://github.com/steel-dev/steel-browser
+https://github.com/FlowiseAI/Flowise
+https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator
