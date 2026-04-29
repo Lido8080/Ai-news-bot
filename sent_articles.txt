@@ -202,3 +202,14 @@ https://github.com/dw-dengwei/daily-arXiv-ai-enhanced
 https://github.com/virtengine/bosun
 https://github.com/virtengine/bosun
 https://github.com/stepanogil/autonomous-hr-chatbot
+https://www.techradar.com/pro/o2-daisy-rebrands-as-o2-business-pledges-to-help-solve-complexity-trap-of-tech
+https://www.techradar.com/how-to-watch/tv-shows/salisbury-poisonings-the-untold-story
+https://github.com/h2oai/h2o-llmstudio
+https://github.com/gpustack/gpustack
+https://github.com/fcakyon/claude-codex-settings
+https://github.com/Normation/rudder
+https://github.com/h2oai/h2o-llmstudio
+https://github.com/the-open-agent/openagent
+https://github.com/olimorris/codecompanion.nvim
+https://github.com/mudler/LocalAI
+https://github.com/the-open-agent/openagent
