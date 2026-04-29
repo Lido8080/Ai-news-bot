@@ -317,3 +317,7 @@ https://github.com/OpenHands/OpenHands
 https://github.com/steel-dev/steel-browser
 https://github.com/FlowiseAI/Flowise
 https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator
+https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/
+https://www.techradar.com/pro/prompts-now-pollutants-later-report-claims-data-centers-are-harming-the-environment-to-the-tune-of-usd25-billion-and-inducing-a-debt-on-the-health-of-current-and-future-generations
+https://github.com/microsoft/playwright
+https://github.com/eleiton/ollama-intel-arc
