@@ -293,3 +293,16 @@ https://github.com/ErlichLiu/Proma
 https://github.com/ggozad/oterm
 https://github.com/PlanExeOrg/PlanExe
 https://github.com/leejet/stable-diffusion.cpp
+https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/
+https://www.techradar.com/pro/the-ocean-is-really-unlimited-in-terms-of-how-much-energy-is-available-no-land-no-fuel-no-cables-how-wave-powered-ocean-platforms-could-tackle-the-power-needs-of-ai-data-centers
+https://www.techradar.com/collection/home/ive-hand-picked-the-best-lego-botanicals-sets-for-mothers-day-from-spiky-succulents-to-cheerful-sunflowers
+https://github.com/pixeltable/pixeltable
+https://github.com/langwatch/langwatch
+https://github.com/genkit-ai/genkit
+https://github.com/ChristopherKahler/paul
+https://github.com/yusufkaraaslan/Skill_Seekers
+https://github.com/crshdn/mission-control
+https://github.com/appsmithorg/appsmith
+https://github.com/aden-hive/hive
+https://github.com/pixeltable/pixeltable
+https://github.com/KudoAI/chatgpt.js
