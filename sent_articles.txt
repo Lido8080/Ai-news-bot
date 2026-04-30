@@ -348,3 +348,9 @@ https://github.com/owndev/Open-WebUI-Functions
 https://github.com/Kiln-AI/Kiln
 https://github.com/ENTERPILOT/GoModel
 https://github.com/Comfy-Org/comfy-cli
+https://www.techradar.com/streaming/entertainment/a-small-and-crucial-new-plot-detail-for-spider-man-brand-new-day-has-sparked-confusion-over-its-marvel-timeline-position-but-theres-a-very-easy-explanation-that-clears-things-up
+https://www.techradar.com/pro/is-your-it-ticket-being-lost-in-the-ghost-shift-new-report-finds-nearly-half-of-complaints-now-land-after-hours
+https://github.com/HKUDS/nanobot
+https://github.com/maxritter/pilot-shell
+https://github.com/Azim-Ahmed/Automation-workflow
+https://github.com/NeptuneHub/AudioMuse-AI
