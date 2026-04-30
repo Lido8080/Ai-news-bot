@@ -335,3 +335,6 @@ https://github.com/adeekshith/watomatic
 https://realpython.com/ai-coding-agents-guide/
 https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-ai-infrastructure-andromeda-cluster-1131375
 learning_2026-04-30
+https://openai.com/index/where-the-goblins-came-from
+https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/
+https://github.com/karatelabs/karate
