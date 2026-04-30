@@ -338,3 +338,13 @@ learning_2026-04-30
 https://openai.com/index/where-the-goblins-came-from
 https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/
 https://github.com/karatelabs/karate
+https://www.techradar.com/home/my-hair-is-flat-and-fine-this-one-product-brought-it-back-to-life-and-its-under-gbp5
+https://www.techradar.com/health-fitness/smartwatches/this-entry-level-garmin-watch-helped-break-running-records-and-its-discounted-just-in-time-to-train-for-the-aussie-marathon-season
+https://www.techradar.com/phones/dreames-aurora-smartphones-look-like-nothing-ive-ever-seen-but-will-they-ever-see-the-light-of-day
+https://github.com/affaan-m/everything-claude-code
+https://github.com/firecrawl/firecrawl
+https://github.com/ReScienceLab/opc-skills
+https://github.com/owndev/Open-WebUI-Functions
+https://github.com/Kiln-AI/Kiln
+https://github.com/ENTERPILOT/GoModel
+https://github.com/Comfy-Org/comfy-cli
