@@ -386,3 +386,17 @@ https://www.techradar.com/pro/security/researchers-discover-new-all-in-one-bluek
 https://www.techradar.com/gaming/pc-gaming/legendary-deus-ex-and-thief-director-warren-spector-is-back-with-a-new-game-its-a-stealth-heist-em-up-called-thick-as-thieves-and-even-the-price-is-a-steal-at-just-five-bucks-on-steam
 https://github.com/chef/chef
 https://github.com/Arize-ai/openinference
+https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/
+https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/
+https://towardsdatascience.com/a-gentle-introduction-to-stochastic-programming/
+https://aitnews.com/2026/04/30/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%af%d8%b1%d8%b3-%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%86%d8%a7%d8%aa-%d9%81%d9%8a-%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d9%87%d8%a7-%d8%a7%d9%84%d8%b0/
+https://aitnews.com/2026/04/30/%d9%85%d9%8a%d8%aa%d8%a7-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%88%d9%83%d9%84%d8%a7%d8%a1-%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%84%d8%ae%d8%af/
+https://www.techradar.com/phones/honor-phones/honor-600-pro-review
+https://www.techradar.com/gaming/hell-kill-when-he-needs-to-but-hes-not-someone-who-loves-killing-007-first-light-dev-explains-the-games-unique-license-to-kill-mechanic
+https://www.techradar.com/cameras/drones/poultry-in-motion-south-korea-tests-fried-chicken-delivery-to-remote-island-using-a-drone-and-four-wheel-robot-in-the-worlds-most-elaborate-takeaway-operation
+https://github.com/mastra-ai/mastra
+https://github.com/screenpipe/screenpipe
+https://github.com/lxf746/any-auto-register
+https://github.com/umputun/ralphex
+https://github.com/OpenCoworkAI/open-codesign
+https://github.com/LLPhant/LLPhant
