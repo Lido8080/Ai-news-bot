@@ -354,3 +354,11 @@ https://github.com/HKUDS/nanobot
 https://github.com/maxritter/pilot-shell
 https://github.com/Azim-Ahmed/Automation-workflow
 https://github.com/NeptuneHub/AudioMuse-AI
+https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/
+https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/
+https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/
+https://www.techradar.com/computing/macbooks/thought-the-macbook-pro-was-expensive-apples-rumored-macbook-ultra-could-cost-significantly-more
+https://www.techradar.com/pro/the-cost-of-compute-is-far-beyond-the-costs-of-the-employees-nvidia-continues-to-stress-importance-of-human-workers-but-how-long-can-we-all-hang-on
+https://github.com/Anionex/banana-slides
+https://github.com/rorkai/App-Store-Connect-CLI
+https://github.com/czlonkowski/n8n-skills
