@@ -427,3 +427,7 @@ https://www.techradar.com/pro/it-quickly-becomes-an-efficient-and-economically-f
 https://github.com/helixml/helix
 https://github.com/semantic-release/semantic-release
 https://github.com/invoke-ai/InvokeAI
+https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/
+https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/
+https://github.com/felladrin/MiniSearch
+https://github.com/cognizant-ai-lab/neuro-san-studio
