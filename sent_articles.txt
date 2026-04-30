@@ -400,3 +400,17 @@ https://github.com/lxf746/any-auto-register
 https://github.com/umputun/ralphex
 https://github.com/OpenCoworkAI/open-codesign
 https://github.com/LLPhant/LLPhant
+https://openai.com/index/advanced-account-security
+https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/
+https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/
+https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/
+https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/
+https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/
+https://www.techradar.com/pro/pin-and-data-remain-encrypted-at-rest-this-unhackable-offline-device-is-quietly-solving-a-problem-most-companies-dont-realize-is-about-to-cost-them-everything
+https://www.techradar.com/streaming/paramount-plus/marshals-a-yellowstone-story-episode-10-release-date-time-cbs
+https://github.com/maximhq/bifrost
+https://github.com/pbek/QOwnNotes
+https://github.com/fabriziosalmi/certmate
+https://github.com/kytmanov/obsidian-llm-wiki-local
+https://github.com/ax-llm/ax
+https://github.com/langchain-ai/langchain
