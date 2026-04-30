@@ -414,3 +414,11 @@ https://github.com/fabriziosalmi/certmate
 https://github.com/kytmanov/obsidian-llm-wiki-local
 https://github.com/ax-llm/ax
 https://github.com/langchain-ai/langchain
+https://updates.midjourney.com/v8-1-updates/
+https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/
+https://www.techradar.com/pro/security/nearly-two-thirds-of-spam-came-from-us-based-infrastructure-your-free-gmail-account-is-helping-criminals-send-46-of-all-commercial-spam-while-wearing-down-employees-with-email-fatigue
+https://github.com/strands-agents/sdk-typescript
+https://github.com/webdriverio/webdriverio
+https://github.com/stackblitz-labs/use-stick-to-bottom
+https://github.com/OnlyTerp/openclaw-optimization-guide
+https://github.com/apocas/restai
