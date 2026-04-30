@@ -422,3 +422,8 @@ https://github.com/webdriverio/webdriverio
 https://github.com/stackblitz-labs/use-stick-to-bottom
 https://github.com/OnlyTerp/openclaw-optimization-guide
 https://github.com/apocas/restai
+https://www.techradar.com/pro/google-says-it-is-proud-to-serve-the-pentagon-new-dod-contract-expansion-says-gemini-will-only-be-used-for-any-lawful-purpose-but-what-happened-to-dont-be-evil
+https://www.techradar.com/pro/it-quickly-becomes-an-efficient-and-economically-feasible-solution-this-wild-saltwater-hack-could-make-data-centers-cooler-cheaper-and-unexpectedly-water-positive
+https://github.com/helixml/helix
+https://github.com/semantic-release/semantic-release
+https://github.com/invoke-ai/InvokeAI
