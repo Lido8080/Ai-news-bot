@@ -362,3 +362,17 @@ https://www.techradar.com/pro/the-cost-of-compute-is-far-beyond-the-costs-of-the
 https://github.com/Anionex/banana-slides
 https://github.com/rorkai/App-Store-Connect-CLI
 https://github.com/czlonkowski/n8n-skills
+https://zapier.com/blog/airtable-alternatives
+https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/
+https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/
+https://towardsdatascience.com/why-ai-engineers-are-moving-beyond-langchain-to-native-agent-architectures/
+https://aitnews.com/2026/04/30/%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8-%d8%aa%d8%aa%d9%8a%d8%ad-%d9%85%d9%8a%d8%b2%d8%a9-%d8%b5%d9%88%d8%b1%d8%a9-%d9%81%d9%8a-%d8%b5%d9%88%d8%b1%d8%a9-%d9%84%d9%83%d8%a7%d9%81%d8%a9-%d8%a7%d9%84/
+https://aitnews.com/2026/04/30/%d8%ae%d8%b2%d8%a7%d9%86%d8%a9-%d9%85%d9%84%d8%a7%d8%a8%d8%b3-%d8%b1%d9%82%d9%85%d9%8a%d8%a9-%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d9%86%d8%b8%d9%91%d9%85-%d9%85%d9%84%d8%a7%d8%a8%d8%b3%d9%83-%d8%af%d8%a7/
+https://www.techradar.com/audio/turntables/i-cant-believe-ive-found-another-rgb-gadget-for-my-home-but-this-flashy-turntable-is-funky-affordable-automatic-and-comes-with-some-really-neat-touches
+https://www.techradar.com/pro/security/new-report-claims-trump-is-the-most-deepfaked-us-politicans-with-over-half-of-cases-these-3-political-figures-drive-74-percent-of-all-threats
+https://www.techradar.com/pro/were-a-good-example-of-if-you-work-smart-apply-security-tools-and-procedures-smartly-you-can-still-operate-and-be-very-agile-from-the-wind-tunnel-to-the-drawing-board-how-1password-is-helping-oracle-red-bull-racing-stay-secure-and-focused
+https://github.com/can1357/oh-my-pi
+https://github.com/PaddlePaddle/FastDeploy
+https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep
+https://github.com/WSTxda/SwitchAI
+https://github.com/elastic/elasticsearch-labs
