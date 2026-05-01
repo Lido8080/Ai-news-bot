@@ -431,3 +431,9 @@ https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could
 https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/
 https://github.com/felladrin/MiniSearch
 https://github.com/cognizant-ai-lab/neuro-san-studio
+https://www.techradar.com/ai-platforms-assistants/theyre-building-each-other-new-x1-neo-robot-video-shows-the-humanoids-assisting-in-the-robot-production-process-just-as-all-science-fiction-foretold
+https://github.com/TracecatHQ/tracecat
+https://realpython.com/quizzes/python-for-data-analysis/
+https://www.freecodecamp.org/news/deploying-serverless-spam-classifier/
+https://remoteOK.com/remote-jobs/remote-manager-client-support-rh-boutique-partners-waterworks-1131392
+learning_2026-05-01
