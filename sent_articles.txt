@@ -452,3 +452,11 @@ https://github.com/basetenlabs/truss
 https://github.com/christopherkarani/Swarm
 https://github.com/MODSetter/SurfSense
 https://github.com/Deodat-Lawson/LaunchStack
+https://github.com/atomicmemory/llm-wiki-compiler
+https://github.com/theopenco/llmgateway
+https://github.com/nocobase/nocobase
+https://github.com/ChrispyBacon-dev/DockFlare
+https://github.com/coleam00/Archon
+https://github.com/jeremylongshore/claude-code-plugins-plus-skills
+https://github.com/adamlui/ai-web-extensions
+https://github.com/santifer/cv-santiago
