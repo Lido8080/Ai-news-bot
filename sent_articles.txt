@@ -477,3 +477,9 @@ https://github.com/rushindrasinha/youtube-shorts-pipeline
 https://github.com/xtekky/gpt4free
 https://github.com/langbot-app/LangBot
 https://github.com/JackChen-me/open-multi-agent
+https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/
+https://towardsdatascience.com/why-powerful-ml-is-deceptively-easy/
+https://www.techradar.com/ai-platforms-assistants/everyones-switching-from-chatgpt-to-claude-but-new-tests-say-neither-is-the-smartest-free-ai-and-the-real-winner-might-surprise-you
+https://www.techradar.com/pro/trust-cannot-be-claimed-it-needs-to-be-earned-through-our-actions-microsoft-thinks-its-doing-pretty-well-in-helping-european-firms-manage-their-data-despite-sovereignty-complaints
+https://github.com/intentee/paddler
+https://github.com/1186258278/OpenClawChineseTranslation
