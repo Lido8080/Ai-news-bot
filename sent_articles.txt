@@ -515,3 +515,11 @@ https://github.com/blacklanternsecurity/bbot
 https://github.com/siyuan-note/siyuan
 https://github.com/Acly/krita-ai-diffusion
 https://github.com/Acly/comfyui-tooling-nodes
+https://towardsdatascience.com/how-to-get-hired-in-the-ai-era/
+https://aitnews.com/2026/05/01/%d8%a2%d8%a8%d9%84-%d8%aa%d8%ad%d9%82%d9%82-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d8%b3%d8%aa%d8%ab%d9%86%d8%a7%d8%a6%d9%8a%d8%a9-%d9%88%d8%b3%d8%b7-%d8%aa%d8%ba%d9%8a/
+https://aitnews.com/2026/05/01/openai-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d9%8a%d8%b2%d8%a9-%d8%a3%d9%85%d8%a7%d9%86-%d9%85%d8%aa%d9%82%d8%af%d9%85%d8%a9-%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-chatgpt/
+https://aitnews.com/2026/05/01/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%a8%d8%af%d8%a3-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d9%87%d8%a7-%d8%a7%d9%84%d8%b0%d9%83%d9%8a-gemini-%d9%84%d9%84%d8%b3%d9%8a%d8%a7%d8%b1/
+https://www.techradar.com/streaming/netflix/3-thrilling-new-netflix-shows-you-shouldnt-miss-in-may-2026
+https://www.techradar.com/vpn/vpn-privacy-security/russia-orders-apple-and-google-to-remove-important-stories-an-investigative-media-app-that-works-without-a-vpn-leaving-russians-without-a-key-source-for-accessing-uncensored-news
+https://www.techradar.com/pro/asuss-intel-core-i7-powered-rog-strix-g16-is-a-high-performance-laptop-for-creators-and-gamers-and-its-currently-usd100-off
+https://github.com/uccl-project/uccl
