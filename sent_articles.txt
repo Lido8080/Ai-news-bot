@@ -503,3 +503,15 @@ https://github.com/FastFlowLM/FastFlowLM
 https://github.com/leon-ai/leon
 https://github.com/siddsachar/Thoth
 https://github.com/Woolverine94/biniou
+https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/
+https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/
+https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/
+https://aitnews.com/2026/05/01/%d9%85%d8%a7%d9%8a%d9%83%d8%b1%d9%88%d8%b3%d9%88%d9%81%d8%aa-%d8%aa%d8%a8%d8%af%d8%a3-%d8%a5%d8%aa%d8%a7%d8%ad%d8%a9-%d9%88%d8%b6%d8%b9-xbox-%d9%81%d9%8a-%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-11-%d9%84/
+https://www.techradar.com/gaming/xbox/finally-windows-11-desktop-pc-users-can-enjoy-xbox-mode-and-microsoft-has-a-new-gift-for-ally-x-users
+https://www.techradar.com/gaming/free-to-play-mobile-game-the-division-resurgence-is-launching-on-pc-in-august-as-ubisoft-shares-new-roadmap-details-but-you-can-play-it-right-now
+https://www.techradar.com/televisions/someone-found-a-chinese-retailer-selling-super-cheap-crt-tvs-but-dont-get-too-excited
+https://github.com/Yeachan-Heo/oh-my-claudecode
+https://github.com/blacklanternsecurity/bbot
+https://github.com/siyuan-note/siyuan
+https://github.com/Acly/krita-ai-diffusion
+https://github.com/Acly/comfyui-tooling-nodes
