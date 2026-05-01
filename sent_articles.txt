@@ -468,3 +468,12 @@ https://github.com/expo/eas-cli
 https://github.com/baptisteArno/typebot.io
 https://github.com/Chevey339/kelivo
 https://github.com/genieincodebottle/generative-ai
+https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/
+https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/
+https://github.com/JackChen-me/open-multi-agent
+https://github.com/nizos/tdd-guard
+https://github.com/spider-rs/spider
+https://github.com/rushindrasinha/youtube-shorts-pipeline
+https://github.com/xtekky/gpt4free
+https://github.com/langbot-app/LangBot
+https://github.com/JackChen-me/open-multi-agent
