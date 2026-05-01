@@ -540,3 +540,8 @@ https://github.com/Light-Heart-Labs/DreamServer
 https://github.com/strands-agents/sdk-python
 https://github.com/openlit/openlit
 https://github.com/GoogleCloudPlatform/generative-ai
+https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/
+https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/
+https://www.techradar.com/computing/apples-mac-mini-now-has-a-higher-starting-price-as-it-discontinues-the-entry-level-model-and-slides-down-to-the-mid-range
+https://github.com/moltis-org/moltis
+https://github.com/langchain-ai/open-swe
