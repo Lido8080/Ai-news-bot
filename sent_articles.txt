@@ -532,3 +532,5 @@ https://github.com/JustArchiNET/ArchiSteamFarm
 https://github.com/wppconnect-team/wppconnect
 https://github.com/yamadashy/repomix
 https://github.com/RunanywhereAI/runanywhere-sdks
+https://www.techradar.com/pro/tens-of-millions-of-graviton-cores-aws-scores-huge-coup-as-meta-buys-hundreds-of-thousands-of-cpus-and-infrastructure-confirming-jeff-bezos-hyperscaler-as-the-essential-backbone-of-the-agentic-ai-era-in-a-major-blow-to-amd-and-intel-ambitions
+https://www.techradar.com/pro/definitely-not-your-usual-ev-china-begins-sea-trial-for-worlds-largest-electric-ship-ning-yuan-dian-kun-is-longer-than-a-football-field-weighs-10-000-tons-and-uses-10-container-batteries-with-a-total-19mwh-capacity
