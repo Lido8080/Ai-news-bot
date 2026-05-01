@@ -460,3 +460,11 @@ https://github.com/coleam00/Archon
 https://github.com/jeremylongshore/claude-code-plugins-plus-skills
 https://github.com/adamlui/ai-web-extensions
 https://github.com/santifer/cv-santiago
+https://www.techradar.com/pro/cyber-essentials-update-could-put-your-public-sector-contracts-at-risk
+https://www.techradar.com/gaming/007-first-light-lets-players-blast-enemies-with-a-watch-laser-shoot-darts-from-a-spy-phone-and-more-pretty-much-all-of-our-gadgets-are-usable-in-combat-developer-says
+https://github.com/Hmbown/DeepSeek-TUI
+https://github.com/OpenCoworkAI/open-cowork
+https://github.com/expo/eas-cli
+https://github.com/baptisteArno/typebot.io
+https://github.com/Chevey339/kelivo
+https://github.com/genieincodebottle/generative-ai
