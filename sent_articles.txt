@@ -492,3 +492,14 @@ https://github.com/SciSharp/LLamaSharp
 https://github.com/PrefectHQ/prefect
 https://github.com/HBAI-Ltd/Toonflow-app
 https://github.com/SciSharp/LLamaSharp
+https://zapier.com/blog/zapier-vs-chatgpt-workspace-agents
+https://zapier.com/blog/what-is-mulesoft
+https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/
+https://towardsdatascience.com/fractured-local-britain-voter-volatility-in-english-councils-2018-2022/
+https://www.techradar.com/ai-platforms-assistants/apple-is-overhauling-its-photos-app-with-ai-because-it-has-to
+https://github.com/Warma10032/VideoAdGuard
+https://github.com/ConardLi/easy-dataset
+https://github.com/FastFlowLM/FastFlowLM
+https://github.com/leon-ai/leon
+https://github.com/siddsachar/Thoth
+https://github.com/Woolverine94/biniou
