@@ -564,3 +564,7 @@ https://github.com/Mai-with-u/MaiBot
 https://github.com/miurla/morphic
 https://github.com/kangarooking/cangjie-skill
 https://github.com/78/xiaozhi-esp32
+https://www.techradar.com/tech/icymi-the-8-biggest-tech-stories-of-the-week-from-new-moto-foldables-to-electric-air-taxis
+https://www.techradar.com/health-fitness/smartwatches/no-other-smartwatch-has-this-feature-the-apple-watchs-most-innovative-running-feature-is-one-youve-probably-never-used
+https://github.com/bgauryy/octocode-mcp
+https://github.com/kyegomez/swarms
