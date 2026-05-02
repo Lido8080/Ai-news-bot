@@ -594,3 +594,7 @@ https://www.techradar.com/phones/oneplus-phones/oneplus-is-reportedly-merging-wi
 https://github.com/promptfoo/promptfoo
 https://github.com/ArvinLovegood/go-stock
 https://github.com/ArvinLovegood/go-stock
+https://www.techradar.com/pro/the-potential-to-make-existing-infrastructure-produce-more-output-is-what-makes-space-solar-worth-investing-in-now-meta-wants-to-power-its-future-data-centers-with-solar-energy-beamed-down-from-space-meaning-solar-plants-can-operate-even-at-night-time
+https://www.techradar.com/audio/wireless-bluetooth-speakers/i-took-a-great-cheap-bluetooth-speaker-to-the-rainiest-place-possible-and-it-survived-7-busy-days-of-abuse-without-a-complaint-id-definitely-recommend-it-as-a-reliable-music-companion-for-your-adventures
+https://github.com/looplj/axonhub
+https://github.com/datawhalechina/all-in-rag
