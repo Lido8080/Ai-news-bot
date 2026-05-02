@@ -570,3 +570,9 @@ https://github.com/bgauryy/octocode-mcp
 https://github.com/kyegomez/swarms
 https://github.com/waybarrios/vllm-mlx
 https://github.com/botswin/BotBrowser
+https://www.techradar.com/streaming/paramount-plus/mayor-of-kingstown-season-5
+https://www.techradar.com/pro/that-is-why-it-is-important-to-have-full-control-dutch-government-launches-its-own-self-hosted-github-alternative-in-the-latest-blast-against-us-tech-giants-such-as-microsoft
+https://github.com/FranciscoMoretti/chat-js
+https://github.com/stevepryde/thirtyfour
+https://github.com/k1LoW/runn
+https://github.com/FranciscoMoretti/chat-js
