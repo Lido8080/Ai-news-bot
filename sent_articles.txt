@@ -558,3 +558,7 @@ https://github.com/awesome-gptX/awesome-gpt
 https://github.com/mcmonkeyprojects/SwarmUI
 https://github.com/FurkanGozukara/Stable-Diffusion
 https://github.com/LykosAI/StabilityMatrix
+https://github.com/f/prompts.chat
+https://github.com/stevius10/Proxmox-GitOps
+https://github.com/Mai-with-u/MaiBot
+https://github.com/miurla/morphic
