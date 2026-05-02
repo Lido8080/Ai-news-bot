@@ -609,3 +609,5 @@ https://github.com/brainlid/langchain
 https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template
 https://github.com/kac89/vulnrepo
 https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template
+https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/
+https://www.techradar.com/pro/were-not-selling-and-were-not-giving-way-lone-farmer-defeats-tennessees-tva-as-us-electricity-giant-grapples-with-exploding-demand-from-ai-fuelled-data-centers-from-google-and-elon-musks-xai-encouraged-by-slow-legislature
