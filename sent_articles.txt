@@ -606,3 +606,6 @@ https://www.techradar.com/pro/it-took-9-seconds-tech-founder-outlines-how-rogue-
 https://www.techradar.com/pro/build-ai-that-can-accurately-represent-the-full-complexity-of-biology-mark-zuckerberg-wants-to-cure-all-diseases-but-needs-far-more-data-to-deliver-a-digital-twin-of-human-cells-as-genetic-data-becomes-the-next-frontier-will-you-trust-him-with-yours
 https://github.com/google/mobly
 https://github.com/brainlid/langchain
+https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template
+https://github.com/kac89/vulnrepo
+https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template
