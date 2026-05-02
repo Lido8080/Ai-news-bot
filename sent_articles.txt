@@ -602,3 +602,7 @@ https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/
 https://www.techradar.com/computing/macs/mac-pro-m2-vs-mac-studio-m2-which-is-the-one-for-you
 https://github.com/unslothai/unsloth
 https://github.com/NVIDIA-NeMo/DataDesigner
+https://www.techradar.com/pro/it-took-9-seconds-tech-founder-outlines-how-rogue-claude-powered-ai-tool-wiped-entire-company-database-and-backups-but-says-theres-no-such-thing-as-bad-publicity
+https://www.techradar.com/pro/build-ai-that-can-accurately-represent-the-full-complexity-of-biology-mark-zuckerberg-wants-to-cure-all-diseases-but-needs-far-more-data-to-deliver-a-digital-twin-of-human-cells-as-genetic-data-becomes-the-next-frontier-will-you-trust-him-with-yours
+https://github.com/google/mobly
+https://github.com/brainlid/langchain
