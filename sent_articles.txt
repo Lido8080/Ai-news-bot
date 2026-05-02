@@ -588,3 +588,9 @@ https://www.techradar.com/streaming/entertainment/film-fans-assemble-vote-in-tec
 https://github.com/pfrest/pfSense-pkg-RESTAPI
 https://github.com/ClassIsland/ClassIsland
 https://github.com/autobrr/autobrr
+https://towardsdatascience.com/which-regularizer-should-you-actually-use-lessons-from-134400-simulations/
+https://www.techradar.com/gaming/nacon-rig-r8-spectre-pro-hs-review
+https://www.techradar.com/phones/oneplus-phones/oneplus-is-reportedly-merging-with-realme-and-evaluating-its-future-but-im-convinced-that-this-is-fantastic-news-for-android-fans
+https://github.com/promptfoo/promptfoo
+https://github.com/ArvinLovegood/go-stock
+https://github.com/ArvinLovegood/go-stock
