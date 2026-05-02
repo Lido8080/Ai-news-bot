@@ -598,3 +598,6 @@ https://www.techradar.com/pro/the-potential-to-make-existing-infrastructure-prod
 https://www.techradar.com/audio/wireless-bluetooth-speakers/i-took-a-great-cheap-bluetooth-speaker-to-the-rainiest-place-possible-and-it-survived-7-busy-days-of-abuse-without-a-complaint-id-definitely-recommend-it-as-a-reliable-music-companion-for-your-adventures
 https://github.com/looplj/axonhub
 https://github.com/datawhalechina/all-in-rag
+https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/
+https://www.techradar.com/computing/macs/mac-pro-m2-vs-mac-studio-m2-which-is-the-one-for-you
+https://github.com/unslothai/unsloth
