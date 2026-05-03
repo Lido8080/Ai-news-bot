@@ -656,3 +656,5 @@ https://github.com/av/harbor
 https://github.com/n4ze3m/page-assist
 https://github.com/holaboss-ai/holaOS
 https://github.com/NPC-Worldwide/npcpy
+https://www.techradar.com/audio/apple-music/when-i-compare-it-to-spotify-lossless-apple-music-is-the-clear-winner-i-signed-up-to-apple-music-again-and-this-time-its-all-about-spatial-audio-these-are-5-dolby-atmos-supported-albums-i-think-are-perfect-for-new-subscribers
+https://github.com/Acly/comfyui-inpaint-nodes
