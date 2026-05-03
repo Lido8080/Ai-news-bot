@@ -643,3 +643,9 @@ https://github.com/ysm-dev/cpdown
 https://github.com/woodpecker-ci/woodpecker
 https://github.com/aaronjmars/opendia
 https://github.com/nonebot/nonebot2
+https://www.techradar.com/phones/iphone/iphone-17-vs-iphone-air
+https://github.com/raullenchai/Rapid-MLX
+https://github.com/dalisoft/awesome-hosting
+https://github.com/getmaxun/maxun
+https://github.com/swuecho/chat
+https://github.com/cortexkit/magic-context
