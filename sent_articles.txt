@@ -654,3 +654,5 @@ https://github.com/arendst/Tasmota
 https://github.com/santifer/career-ops
 https://github.com/av/harbor
 https://github.com/n4ze3m/page-assist
+https://github.com/holaboss-ai/holaOS
+https://github.com/NPC-Worldwide/npcpy
