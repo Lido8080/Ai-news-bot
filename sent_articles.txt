@@ -665,3 +665,5 @@ https://github.com/Flexget/Flexget
 https://github.com/ChaoMixian/vFlow
 https://github.com/instill-ai/instill-core
 https://github.com/0xMassi/webclaw
+https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/
+https://www.techradar.com/pro/unprecedented-drought-conditions-more-than-500-data-centers-across-nevada-california-and-arizona-could-feel-the-pinch-as-the-iconic-hoover-dam-could-lose-40-of-its-power-output-because-of-poor-rainfall-and-abnormally-low-snowpack-numbers
