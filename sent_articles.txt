@@ -624,3 +624,7 @@ https://www.techradar.com/health-fitness/nuance-audio-hearing-glasses-review
 https://www.techradar.com/home/coffee-machines/im-a-trained-barista-and-these-are-the-top-3-budget-friendly-coffee-makers-i-recommend-for-cafe-quality-drinks-at-home-from-delonghi-ninja-and-philips
 https://github.com/R6410418/Jackrong-llm-finetuning-guide
 https://github.com/pocketpaw/pocketpaw
+https://www.techradar.com/computing/the-only-worry-is-for-your-budget-microsoft-briefly-says-32gb-of-ram-is-the-no-worries-level-for-gaming-on-windows-11-but-users-fear-getting-priced-out
+https://www.techradar.com/cameras/photography/from-controller-to-camera-this-photography-sim-is-the-ultimate-training-tool-for-your-next-shoot-in-the-real-outdoors
+https://github.com/robocorp/rpaframework
+https://github.com/SynkraAI/aiox-core
