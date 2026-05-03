@@ -664,3 +664,4 @@ https://github.com/instill-ai/instill-core
 https://github.com/Flexget/Flexget
 https://github.com/ChaoMixian/vFlow
 https://github.com/instill-ai/instill-core
+https://github.com/0xMassi/webclaw
