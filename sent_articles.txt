@@ -620,3 +620,7 @@ https://github.com/AlexsJones/llmfit
 https://github.com/BlazeUp-AI/Observal
 https://github.com/kejilion/sh
 https://github.com/sangrokjung/claude-forge
+https://www.techradar.com/health-fitness/nuance-audio-hearing-glasses-review
+https://www.techradar.com/home/coffee-machines/im-a-trained-barista-and-these-are-the-top-3-budget-friendly-coffee-makers-i-recommend-for-cafe-quality-drinks-at-home-from-delonghi-ninja-and-philips
+https://github.com/R6410418/Jackrong-llm-finetuning-guide
+https://github.com/pocketpaw/pocketpaw
