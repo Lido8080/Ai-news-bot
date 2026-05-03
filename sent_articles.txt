@@ -635,3 +635,11 @@ https://github.com/itayinbarr/little-coder
 https://github.com/ShaikhWarsi/free-ai-tools
 https://www.techradar.com/pro/adobes-legal-chief-calls-for-creator-protection-as-policymakers-and-tech-companies-reframe-copyright-in-the-era-of-ai
 https://github.com/onestardao/WFGY
+https://towardsdatascience.com/inference-scaling-test-time-compute-why-reasoning-models-raise-your-compute-bill/
+https://www.techradar.com/pro/no-single-vendor-can-or-should-dictate-the-full-solution-amd-positions-itself-as-the-open-platform-champion-in-the-space-race-in-a-veiled-dig-at-its-arch-rivals-up-and-coming-challengers
+https://www.techradar.com/streaming/hulu/the-testaments-episode-7-release-date-time-disney-plus
+https://www.techradar.com/home/hair-care/laifen-p3-pro-electric-shaver-review
+https://github.com/ysm-dev/cpdown
+https://github.com/woodpecker-ci/woodpecker
+https://github.com/aaronjmars/opendia
+https://github.com/nonebot/nonebot2
