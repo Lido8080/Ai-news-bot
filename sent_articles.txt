@@ -658,3 +658,9 @@ https://github.com/holaboss-ai/holaOS
 https://github.com/NPC-Worldwide/npcpy
 https://www.techradar.com/audio/apple-music/when-i-compare-it-to-spotify-lossless-apple-music-is-the-clear-winner-i-signed-up-to-apple-music-again-and-this-time-its-all-about-spatial-audio-these-are-5-dolby-atmos-supported-albums-i-think-are-perfect-for-new-subscribers
 https://github.com/Acly/comfyui-inpaint-nodes
+https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/
+https://www.techradar.com/pro/a-dream-technology-japanese-scientists-might-have-unlocked-the-next-generation-of-solar-panels-that-stay-cooler-and-last-longer-thanks-to-spin-flip-material-that-achieves-130-percent-energy-conversion-efficiency-and-heres-how-it-works
+https://github.com/instill-ai/instill-core
+https://github.com/Flexget/Flexget
+https://github.com/ChaoMixian/vFlow
+https://github.com/instill-ai/instill-core
