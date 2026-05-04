@@ -670,3 +670,5 @@ https://www.techradar.com/pro/unprecedented-drought-conditions-more-than-500-dat
 https://www.techradar.com/tech/the-biggest-surprise-of-my-recent-san-francisco-trip-hearing-how-much-steve-wozniak-loves-his-iphone-air
 https://github.com/usestrix/strix
 https://github.com/SylphxAI/pdf-reader-mcp
+https://towardsdatascience.com/cspnet-paper-walkthrough-just-better-no-tradeoff/
+learning_2026-05-04
