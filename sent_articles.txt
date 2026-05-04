@@ -672,3 +672,8 @@ https://github.com/usestrix/strix
 https://github.com/SylphxAI/pdf-reader-mcp
 https://towardsdatascience.com/cspnet-paper-walkthrough-just-better-no-tradeoff/
 learning_2026-05-04
+https://www.techradar.com/vpn/vpn-services/norton-vpn-enters-the-ai-agent-space-with-first-truly-ai-native-vpn-for-agents
+https://www.techradar.com/audio/apple-music/apple-music-is-my-audio-streaming-service-of-choice-and-now-you-can-get-3-months-for-just-au2-for-a-limited-time
+https://github.com/cyberkaida/reverse-engineering-assistant
+https://github.com/kaito-project/aikit
+https://github.com/vibheksoni/stealth-browser-mcp
