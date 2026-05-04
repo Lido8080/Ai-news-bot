@@ -715,3 +715,9 @@ https://github.com/SciSharp/BotSharp
 https://github.com/open-webui/open-webui
 https://github.com/macOS26/Agent
 https://github.com/PurpleDoubleD/locally-uncensored
+https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/
+https://towardsdatascience.com/single-agent-vs-multi-agent-when-to-build-a-multi-agent-system/
+https://bdtechtalks.com/2026/05/04/memory-sparse-attention/?utm_source=rss&utm_medium=rss&utm_campaign=memory-sparse-attention
+https://aitnews.com/2026/05/04/%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d8%aa%d8%aa%d8%ae%d9%84%d9%91%d9%89-%d8%b9%d9%86-%d9%85%d9%8a%d8%b2%d8%a9-%d8%b5%d9%88%d8%b1-%d8%a7%d9%84%d8%a3%d9%81%d8%a7%d8%aa%d8%a7%d8%b1-%d8%a8%d8%b9/
+https://www.techradar.com/pro/flaws-identified-in-the-b-21-configuration-chinese-scientists-claim-their-mysterious-padj-x-stealth-design-software-exposed-major-weaknesses-in-the-usafs-b-21-raider-programme-using-digital-twins-and-damning-files-in-the-mother-of-all-leaks-from-china-suggest-the-secret-code-has-already-cracked-the-bombers-aerodynamic-limits
+https://www.techradar.com/ai-platforms-assistants/gen-z-hate-ai-the-musk-vs-altman-trial-heats-up-openai-phone-rumors-buzz-and-more-of-the-weeks-most-surprising-developments
