@@ -689,3 +689,6 @@ https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterpris
 https://www.techradar.com/pro/security/the-inbox-is-no-longer-the-only-front-line-report-claims-vast-majority-of-phishing-attacks-are-now-generated-by-ai-heres-how-to-stay-safe
 https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight
 https://github.com/generalaction/emdash
+https://towardsdatascience.com/how-ai-tools-generate-technical-debt-in-iot-systems-and-what-to-do-about-it/
+https://www.techradar.com/streaming/disney-plus/what-is-the-release-date-for-daredevil-born-again-season-2-episode-8-on-disney
+https://www.techradar.com/gaming/creative-sound-blaster-gs5-review
