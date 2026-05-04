@@ -680,3 +680,7 @@ https://github.com/vibheksoni/stealth-browser-mcp
 https://www.techradar.com/vpn/vpn-services/amnezia-vpn-rolls-out-major-bug-fixes-a-crucial-security-patch-and-new-features-in-latest-app-update
 https://github.com/deepset-ai/haystack
 https://github.com/microlinkhq/browserless
+https://www.techradar.com/ai-platforms-assistants/it-bothers-me-that-this-could-be-deployed-by-employers-your-boss-could-soon-know-youre-struggling-before-you-do-inside-the-rise-of-ai-mental-health-prediction-tools
+https://github.com/Thysrael/Horizon
+https://github.com/nextlevelbuilder/goclaw
+https://github.com/JerryZLiu/Dayflow
