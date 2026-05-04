@@ -684,3 +684,8 @@ https://www.techradar.com/ai-platforms-assistants/it-bothers-me-that-this-could-
 https://github.com/Thysrael/Horizon
 https://github.com/nextlevelbuilder/goclaw
 https://github.com/JerryZLiu/Dayflow
+https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/
+https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/
+https://www.techradar.com/pro/security/the-inbox-is-no-longer-the-only-front-line-report-claims-vast-majority-of-phishing-attacks-are-now-generated-by-ai-heres-how-to-stay-safe
+https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight
+https://github.com/generalaction/emdash
