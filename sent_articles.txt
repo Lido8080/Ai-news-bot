@@ -677,3 +677,6 @@ https://www.techradar.com/audio/apple-music/apple-music-is-my-audio-streaming-se
 https://github.com/cyberkaida/reverse-engineering-assistant
 https://github.com/kaito-project/aikit
 https://github.com/vibheksoni/stealth-browser-mcp
+https://www.techradar.com/vpn/vpn-services/amnezia-vpn-rolls-out-major-bug-fixes-a-crucial-security-patch-and-new-features-in-latest-app-update
+https://github.com/deepset-ai/haystack
+https://github.com/microlinkhq/browserless
