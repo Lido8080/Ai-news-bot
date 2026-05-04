@@ -731,3 +731,6 @@ https://github.com/cfengine/core
 https://github.com/nottelabs/notte
 https://github.com/hydropix/TranslateBooksWithLLMs
 https://github.com/langchain-ai/langchain-aws
+https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/
+https://www.techradar.com/computing/computing-components/micron-ceo-warns-ai-is-in-very-early-innings-and-it-will-need-more-memory-another-ominous-sign-the-ram-crisis-isnt-going-anywhere
+https://github.com/tmgthb/Autonomous-Agents
