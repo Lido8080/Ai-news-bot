@@ -721,3 +721,13 @@ https://bdtechtalks.com/2026/05/04/memory-sparse-attention/?utm_source=rss&utm_m
 https://aitnews.com/2026/05/04/%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d8%aa%d8%aa%d8%ae%d9%84%d9%91%d9%89-%d8%b9%d9%86-%d9%85%d9%8a%d8%b2%d8%a9-%d8%b5%d9%88%d8%b1-%d8%a7%d9%84%d8%a3%d9%81%d8%a7%d8%aa%d8%a7%d8%b1-%d8%a8%d8%b9/
 https://www.techradar.com/pro/flaws-identified-in-the-b-21-configuration-chinese-scientists-claim-their-mysterious-padj-x-stealth-design-software-exposed-major-weaknesses-in-the-usafs-b-21-raider-programme-using-digital-twins-and-damning-files-in-the-mother-of-all-leaks-from-china-suggest-the-secret-code-has-already-cracked-the-bombers-aerodynamic-limits
 https://www.techradar.com/ai-platforms-assistants/gen-z-hate-ai-the-musk-vs-altman-trial-heats-up-openai-phone-rumors-buzz-and-more-of-the-weeks-most-surprising-developments
+https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/
+https://www.techradar.com/home/small-appliances/more-powerful-and-versatile-than-any-other-personal-fan-ive-tested-i-reviewed-sharks-3-in-1-portable-fan-and-have-never-experienced-so-many-different-kinds-of-cooling
+https://www.techradar.com/computing/windows/microsoft-continues-the-good-work-on-windows-11-with-tweaks-to-quiet-ads-and-that-big-taskbar-change-is-coming-soon
+https://github.com/pydantic/pydantic-ai
+https://github.com/hydropix/TranslateBooksWithLLMs
+https://github.com/agavra/tuicr
+https://github.com/cfengine/core
+https://github.com/nottelabs/notte
+https://github.com/hydropix/TranslateBooksWithLLMs
+https://github.com/langchain-ai/langchain-aws
