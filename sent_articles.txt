@@ -800,3 +800,9 @@ https://www.techradar.com/collection/seasonal-sales/argos-expands-its-bank-holid
 https://www.techradar.com/tech/forget-stealing-our-jobs-robots-are-now-coming-for-the-most-human-pastime-causing-havoc-on-public-transport
 https://github.com/BoundaryML/baml
 https://github.com/Significant-Gravitas/AutoGPT
+https://www.techradar.com/pro/cheap-air-to-air-missile-ukraine-has-turned-a-vintage-55-year-old-russian-designed-antonov-an-28-twin-propeller-aircraft-into-a-versatile-a-10-warthog-type-platform-complete-with-gatling-class-gun-vr-headsets-to-intercept-russian-shahed-drones
+https://www.techradar.com/pro/ai-creates-jobs-nvidia-ceo-jensen-huang-once-again-says-workers-have-nothing-to-fear
+https://www.techradar.com/streaming/disney-plus/i-thought-i-was-going-mad-disney-subscribers-think-the-service-removes-dolby-atmos-from-shows-at-certain-times-even-if-youve-paid-for-premium-they-think-its-to-reduce-server-stress-at-peak-times-but-the-streaming-giant-has-yet-to-confirm
+https://github.com/tensorzero/tensorzero
+https://github.com/docmd-io/docmd
+https://github.com/lucasrosati/claude-code-memory-setup
