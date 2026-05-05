@@ -812,3 +812,7 @@ https://aitnews.com/2026/05/06/gpt-5-5-instant-%d9%86%d9%85%d9%88%d8%b0%d8%ac-%d
 https://github.com/Blaizzy/mlx-vlm
 https://github.com/K-Dense-AI/k-dense-byok
 https://www.techradar.com/pro/electricity-with-zero-emission-chinese-scientists-aim-to-transform-dirty-coal-with-a-new-fuel-cell-that-doesnt-burn-anything-and-produces-clean-power-well-beyond-the-carnot-cycle-limit-by-converting-chemical-energy-directly-into-electricity-with-up-to-90-potential-efficiency
+https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/
+https://github.com/vllm-project/semantic-router
+https://github.com/Mesh-LLM/mesh-llm
+https://github.com/Helicone/helicone
