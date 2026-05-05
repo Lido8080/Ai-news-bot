@@ -793,3 +793,10 @@ https://www.techradar.com/pro/security/phishing-campaigns-continue-to-improve-so
 https://www.techradar.com/phones/android/5-android-17-features-that-could-be-announced-at-googles-pre-i-o-android-reveal-including-motion-assist-and-app-locking
 https://www.techradar.com/streaming/netflix/ive-been-a-netflix-subscriber-for-25-years-and-i-cant-decide-if-clips-is-the-best-or-worst-thing-to-happen-to-the-mobile-app
 https://github.com/cogwheel0/conduit
+https://openai.com/index/new-ways-to-buy-chatgpt-ads
+https://zapier.com/blog/claude-design
+https://www.techradar.com/pro/security/federal-regulator-to-ban-all-chinese-labs-from-vetting-us-bound-devices-over-national-security-concerns-major-supply-chain-shakeup-will-affect-75-percent-of-devices-sold-in-the-us
+https://www.techradar.com/collection/seasonal-sales/argos-expands-its-bank-holiday-sale-with-dozens-of-new-deals-ive-found-the-21-best-tech-offers-with-up-to-40-percent-off
+https://www.techradar.com/tech/forget-stealing-our-jobs-robots-are-now-coming-for-the-most-human-pastime-causing-havoc-on-public-transport
+https://github.com/BoundaryML/baml
+https://github.com/Significant-Gravitas/AutoGPT
