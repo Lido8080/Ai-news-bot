@@ -760,3 +760,15 @@ https://github.com/i-am-bee/beeai-framework
 https://github.com/appium/java-client
 https://github.com/moeru-ai/xsai
 https://github.com/xxxily/hello-ai
+https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/
+https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-longoria-as-new-investors/
+https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/
+https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/
+https://towardsdatascience.com/rag-hallucinates-i-built-a-self-healing-layer-that-fixes-it-in-real-time/
+https://aitnews.com/2026/05/05/%d9%85%d9%88%d8%b8%d9%81%d9%88-%d8%ac%d9%88%d8%ac%d9%84-%d8%af%d9%8a%d8%a8-%d9%85%d8%a7%d9%8a%d9%86%d8%af-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8%d9%88%d9%86-%d8%a8%d9%85%d9%86%d8%b9-%d8%a7%d8%b3%d8%aa/
+https://www.techradar.com/pro/security/some-ubuntu-services-are-still-down-following-outages-after-ddos-attack
+https://www.techradar.com/vpn/vpn-privacy-security/proton-tor-mullvad-expressvpn-and-mozilla-among-the-19-organizations-urging-the-uk-government-not-to-undermine-the-open-web-as-childrens-wellbeing-and-schools-bill-becomes-law-a-move-that-could-infringe-human-rights
+https://www.techradar.com/vpn/vpn-services/privadovpns-new-terms-of-service-make-its-privacy-protecting-move-from-switzerland-to-iceland-official
+https://github.com/apify/crawlee
+https://github.com/slackapi/bolt-python
+https://github.com/Gsync/jobsync
