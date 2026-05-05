@@ -750,3 +750,5 @@ https://www.techradar.com/phones/ios/ios-27-could-let-you-add-custom-passes-to-a
 https://www.techradar.com/pro/76-percent-of-uk-organizations-have-faced-deepfake-attacks-most-werent-ready
 https://www.techradar.com/computing/keyboards/frankly-absurd-i-reviewed-the-keychron-v1-ultra-8k-and-loved-its-ridiculously-epic-660-hour-battery-life-and-sky-high-8-000hz-max-polling-rate
 https://github.com/VoidenHQ/voiden
+https://github.com/linshenkx/prompt-optimizer
+https://github.com/linshenkx/prompt-optimizer
