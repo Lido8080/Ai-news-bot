@@ -752,3 +752,11 @@ https://www.techradar.com/computing/keyboards/frankly-absurd-i-reviewed-the-keyc
 https://github.com/VoidenHQ/voiden
 https://github.com/linshenkx/prompt-optimizer
 https://github.com/linshenkx/prompt-optimizer
+https://towardsdatascience.com/surviving-high-uncertainty-in-logistics-with-marl/
+https://www.techradar.com/pro/how-else-are-people-going-to-learn-to-do-the-job-mit-ai-expert-warns-against-automating-gen-z-entry-level-jobs
+https://www.techradar.com/streaming/bbc-iplayer/beyond-paradise-season-4-crossover-episode
+https://www.techradar.com/audio/spotify/spotify-could-be-set-to-launch-two-new-features-and-one-could-solve-a-big-pain-point-for-lossless-fans-but-the-other-is-something-no-one-is-asking-for
+https://github.com/i-am-bee/beeai-framework
+https://github.com/appium/java-client
+https://github.com/moeru-ai/xsai
+https://github.com/xxxily/hello-ai
