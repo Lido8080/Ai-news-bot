@@ -772,3 +772,14 @@ https://www.techradar.com/vpn/vpn-services/privadovpns-new-terms-of-service-make
 https://github.com/apify/crawlee
 https://github.com/slackapi/bolt-python
 https://github.com/Gsync/jobsync
+https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/
+https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/
+https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/
+https://towardsdatascience.com/how-to-make-claude-code-validate-its-own-work/
+https://aitnews.com/2026/05/05/%d8%a2%d8%a8%d9%84-%d8%aa%d8%b6%d9%8a%d9%81-%d8%aa%d8%b4%d9%81%d9%8a%d8%b1%d9%8b%d8%a7-%d9%83%d8%a7%d9%85%d9%84%d9%8b%d8%a7-%d8%a5%d9%84%d9%89-%d8%b1%d8%b3%d8%a7%d8%a6%d9%84-rcs-%d8%a8%d9%8a%d9%86/
+https://aitnews.com/2026/05/05/%d9%85%d9%8a%d8%aa%d8%a7-%d8%aa%d8%ad%d9%84%d9%84-%d8%a8%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%b9%d8%b8%d8%a7%d9%85-%d8%a8%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7/
+https://aitnews.com/2026/05/05/%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%aa%d8%ae%d8%aa%d8%a8%d8%b1-%d9%86%d9%85%d8%a7%d8%b0%d8%ac-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1/
+https://www.techradar.com/pro/security/experts-warn-amazons-simple-email-service-is-being-abused-to-launch-massive-volume-of-phishing-attacks
+https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s26-ultra-falls-to-a-new-record-low-price-at-amazon-get-usd300-off-the-best-android-phone-ever
+https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization
+https://github.com/4thfever/cultivation-world-simulator
