@@ -783,3 +783,13 @@ https://www.techradar.com/pro/security/experts-warn-amazons-simple-email-service
 https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s26-ultra-falls-to-a-new-record-low-price-at-amazon-get-usd300-off-the-best-android-phone-ever
 https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization
 https://github.com/4thfever/cultivation-world-simulator
+https://openai.com/index/gpt-5-5-instant-system-card
+https://openai.com/index/gpt-5-5-instant
+https://zapier.com/blog/google-stitch
+https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/
+https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/
+https://towardsdatascience.com/discrete-time-to-event-modeling-predicting-when-something-will-happen/
+https://www.techradar.com/pro/security/phishing-campaigns-continue-to-improve-sophistication-and-refinement-microsoft-flags-major-sophisticated-phishing-campaign-targeting-35-000-users-across-26-countries
+https://www.techradar.com/phones/android/5-android-17-features-that-could-be-announced-at-googles-pre-i-o-android-reveal-including-motion-assist-and-app-locking
+https://www.techradar.com/streaming/netflix/ive-been-a-netflix-subscriber-for-25-years-and-i-cant-decide-if-clips-is-the-best-or-worst-thing-to-happen-to-the-mobile-app
+https://github.com/cogwheel0/conduit
