@@ -874,3 +874,14 @@ https://www.techradar.com/home/i-searched-amazons-entire-mothers-day-sale-these-
 https://www.techradar.com/pro/security/experts-warn-microsoft-phone-link-tool-exploited-by-unknown-threat-to-steal-sms-and-otp-info
 https://github.com/envoyproxy/ai-gateway
 https://github.com/ImDarkTom/LlamaPen
+https://openai.com/index/introducing-chatgpt-futures-class-of-2026
+https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/
+https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/
+https://towardsdatascience.com/when-the-uncertainty-is-bigger-than-the-shock-scenario-modelling-for-english-local-elections/
+https://www.techradar.com/computing/macs/apple-removes-more-mac-mini-and-mac-studio-models-from-sale-as-ceo-tim-cook-warns-it-may-take-several-months-to-reach-supply-demand-balance
+https://www.techradar.com/pro/security/researcher-reveals-official-white-house-app-is-one-command-away-from-tracking-your-precise-location-every-4-5-minutes-app-can-also-inject-code-to-dodge-cookie-consent-gdpr-banners-and-paywalls
+https://github.com/miscusi-peek/cheatengine-mcp-bridge
+https://github.com/hexabot-ai/Hexabot
+https://github.com/evolution-foundation/evolution-api
+https://github.com/evolution-foundation/evolution-api
+https://github.com/hexabot-ai/Hexabot
