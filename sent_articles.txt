@@ -844,3 +844,15 @@ https://www.techradar.com/streaming/paramount-plus/landman-season-3-release-upda
 https://www.techradar.com/pro/how-signatures-are-evolving-in-digital-first-systems
 https://github.com/mem0ai/mem0
 https://github.com/ZHangZHengEric/Sage
+https://openai.com/index/mrc-supercomputer-networking
+https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/
+https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/
+https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/
+https://towardsdatascience.com/why-i-dont-trust-llms-to-decide-when-the-weather-changed/
+https://aitnews.com/2026/05/06/%d8%a3%d8%b2%d9%85%d8%a9-%d8%b3%d9%8a%d8%b1%d9%8a-%d8%aa%d8%aa%d8%b5%d8%a7%d8%b9%d8%af-%d8%a2%d8%a8%d9%84-%d8%aa%d9%88%d8%a7%d9%81%d9%82-%d8%b9%d9%84%d9%89-%d8%aa%d8%b3%d9%88%d9%8a%d8%a9-%d8%b6/
+https://aitnews.com/2026/05/06/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%87%d8%aa%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%a8%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7/
+https://www.techradar.com/streaming/entertainment/a-new-passenger-teaser-claims-this-is-not-your-average-horror-movie-but-its-up-against-some-huge-original-releases-in-may
+https://www.techradar.com/vpn/vpn-services/protection-isnt-a-setting-you-turn-on-its-the-foundation-norton-neos-new-update-makes-it-the-ultimate-ai-browser-with-an-adaptive-built-in-vpn-anti-phishing-and-anti-tracking-tools-that-work-by-default
+https://www.techradar.com/pro/anthropic-rolls-out-a-host-of-new-ai-agents-to-target-the-most-time-consuming-work-in-financial-services
+https://github.com/eugeniughelbur/obsidian-second-brain
+https://github.com/yegor256/rultor
