@@ -885,3 +885,9 @@ https://github.com/hexabot-ai/Hexabot
 https://github.com/evolution-foundation/evolution-api
 https://github.com/evolution-foundation/evolution-api
 https://github.com/hexabot-ai/Hexabot
+https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections
+https://zapier.com/blog/scaling-lead-gen-linkedin-and-zapier
+https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/
+https://www.techradar.com/home/smart-home/tired-of-blurry-pictures-from-your-video-doorbell-blink-just-launched-its-first-doorbell-with-2k-video-and-its-only-usd50
+https://www.techradar.com/how-to-watch/how-to-watch-m-i-a
+https://github.com/plastic-labs/honcho
