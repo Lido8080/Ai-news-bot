@@ -899,3 +899,8 @@ https://www.techradar.com/pro/putting-the-whole-earth-into-a-computer-chinese-sc
 https://www.techradar.com/ai-platforms-assistants/ai-capabilities-that-did-not-exist-at-the-time-delayed-siri-features-have-cost-apple-a-massive-usd250-million-and-iphone-users-could-get-up-to-usd95-per-device
 https://github.com/mozilla/bugbug
 https://github.com/jordanhubbard/nanolang
+https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/
+https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/
+https://www.techradar.com/health-fitness/this-foldable-futuristic-neck-massager-will-heat-your-aching-muscles-and-talk-to-you-while-it-does-so-yes-really
+https://github.com/google/adk-python
+https://github.com/control-theory/gonzo
