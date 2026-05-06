@@ -904,3 +904,6 @@ https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicab
 https://www.techradar.com/health-fitness/this-foldable-futuristic-neck-massager-will-heat-your-aching-muscles-and-talk-to-you-while-it-does-so-yes-really
 https://github.com/google/adk-python
 https://github.com/control-theory/gonzo
+https://openai.com/index/singular-bank
+https://www.techradar.com/pro/not-just-an-aircraft-us-navy-mq-25-stingray-drone-hit-a-major-milestone-with-maiden-flight-largest-us-uav-ever-built-set-to-become-worlds-first-autonomous-tanker-to-take-flight-from-an-aircraft-carrier-and-maybe-feature-in-a-top-gun-movie-one-day
+https://github.com/openai/openai-agents-python
