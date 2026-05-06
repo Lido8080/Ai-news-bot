@@ -891,3 +891,11 @@ https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-br
 https://www.techradar.com/home/smart-home/tired-of-blurry-pictures-from-your-video-doorbell-blink-just-launched-its-first-doorbell-with-2k-video-and-its-only-usd50
 https://www.techradar.com/how-to-watch/how-to-watch-m-i-a
 https://github.com/plastic-labs/honcho
+https://zapier.com/blog/fix-linkedin-ads-attribution-gaps
+https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/
+https://aitnews.com/2026/05/07/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%b6%d9%8a%d9%81-%d9%85%d9%84%d9%81%d9%8b%d8%a7-%d8%b6%d8%ae%d9%85%d9%8b%d8%a7-%d8%a5%d9%84%d9%89-%d9%85%d8%aa%d8%b5%d9%81%d8%ad-%d9%83%d8%b1%d9%88%d9%85-%d8%af%d9%88/
+https://aitnews.com/2026/05/07/openai-%d8%aa%d9%8f%d8%b7%d9%84%d9%82-chatgpt-%d8%af%d8%a7%d8%ae%d9%84-excel-%d9%88-google-sheets-%d9%84%d9%83%d8%a7%d9%81%d8%a9-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a%d9%86/
+https://www.techradar.com/pro/putting-the-whole-earth-into-a-computer-chinese-scientists-use-supercomputers-to-solve-one-of-yellowstone-parks-most-enduring-volcanic-mysteries-and-now-want-to-create-a-digital-twin-of-our-planet-to-predict-its-future
+https://www.techradar.com/ai-platforms-assistants/ai-capabilities-that-did-not-exist-at-the-time-delayed-siri-features-have-cost-apple-a-massive-usd250-million-and-iphone-users-could-get-up-to-usd95-per-device
+https://github.com/mozilla/bugbug
+https://github.com/jordanhubbard/nanolang
