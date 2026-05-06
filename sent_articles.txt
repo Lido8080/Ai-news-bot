@@ -839,3 +839,8 @@ https://www.techradar.com/tablets/ereaders/onyx-boox-palma-2-pro-review
 https://www.techradar.com/streaming/disney-plus/daredevil-born-again-season-2-ending-explained
 https://github.com/agentscope-ai/OpenJudge
 https://github.com/1Panel-dev/1Panel
+https://huggingface.co/blog/open-asr-leaderboard-private-data
+https://www.techradar.com/streaming/paramount-plus/landman-season-3-release-update-director
+https://www.techradar.com/pro/how-signatures-are-evolving-in-digital-first-systems
+https://github.com/mem0ai/mem0
+https://github.com/ZHangZHengEric/Sage
