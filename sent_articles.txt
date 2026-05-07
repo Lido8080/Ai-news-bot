@@ -927,3 +927,10 @@ https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doct
 https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/
 https://www.techradar.com/pro/these-findings-arent-isolated-incidents-a-shocking-number-of-workers-would-be-willing-to-sell-out-their-company-data-for-money
 https://www.techradar.com/pro/workforce-reductions-may-create-budget-room-but-they-do-not-create-return-gartner-warns-companies-relying-on-layoffs-to-free-up-room-for-ai-may-be-caught-out-in-the-long-run
+https://openai.com/index/parloa
+https://towardsdatascience.com/i-rewrote-a-real-data-workflow-in-polars-pandas-didnt-stand-a-chance/
+https://www.techradar.com/pro/were-not-just-adding-new-features-were-introducing-a-new-format-adobe-is-changing-how-pdf-and-other-files-get-shared
+https://www.techradar.com/ai-platforms-assistants/a-new-search-ai-tool-from-google-will-summarize-tips-from-reddit-and-social-media-the-expert-advice-panel-will-include-a-preview-of-perspectives-from-public-online-discussions-and-other-sources-as-part-of-its-updates-to-ai-mode-and-ai-overviews
+https://github.com/alvinreal/awesome-autoresearch
+https://github.com/wecode-ai/Wegent
+https://github.com/calesthio/OpenMontage
