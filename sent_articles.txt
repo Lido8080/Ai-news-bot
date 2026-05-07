@@ -907,3 +907,12 @@ https://github.com/control-theory/gonzo
 https://openai.com/index/singular-bank
 https://www.techradar.com/pro/not-just-an-aircraft-us-navy-mq-25-stingray-drone-hit-a-major-milestone-with-maiden-flight-largest-us-uav-ever-built-set-to-become-worlds-first-autonomous-tanker-to-take-flight-from-an-aircraft-carrier-and-maybe-feature-in-a-top-gun-movie-one-day
 https://github.com/openai/openai-agents-python
+https://openai.com/index/uber
+https://www.techradar.com/pro/a-foundational-block-of-modern-cybercrime-the-inside-story-of-a-15-000-website-network-using-popular-ad-trackers-to-peddle-ai-investment-scams
+https://github.com/njbrake/agent-of-empires
+https://github.com/legeling/PromptHub
+https://github.com/spacedriveapp/spacebot
+https://realpython.com/build-a-chatbot-python-chatterbot/
+https://www.freecodecamp.org/news/how-to-build-a-market-research-copilot-with-mcp-and-python-handbook/
+https://remoteOK.com/remote-jobs/remote-lead-instructor-aerospace-technician-correlation-one-1131480
+learning_2026-05-07
