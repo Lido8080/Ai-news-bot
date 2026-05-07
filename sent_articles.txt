@@ -916,3 +916,5 @@ https://realpython.com/build-a-chatbot-python-chatterbot/
 https://www.freecodecamp.org/news/how-to-build-a-market-research-copilot-with-mcp-and-python-handbook/
 https://remoteOK.com/remote-jobs/remote-lead-instructor-aerospace-technician-correlation-one-1131480
 learning_2026-05-07
+https://github.com/sno-ai/mda
+https://github.com/chr15m/runprompt
