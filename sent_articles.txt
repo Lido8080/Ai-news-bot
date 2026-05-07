@@ -923,3 +923,7 @@ https://www.techradar.com/home/coffee-machines/kitchenaid-semi-automatic-espress
 https://github.com/robotframework/robotframework
 https://github.com/apify/crawlee-python
 https://github.com/Zackriya-Solutions/meetily
+https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/
+https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/
+https://www.techradar.com/pro/these-findings-arent-isolated-incidents-a-shocking-number-of-workers-would-be-willing-to-sell-out-their-company-data-for-money
+https://www.techradar.com/pro/workforce-reductions-may-create-budget-room-but-they-do-not-create-return-gartner-warns-companies-relying-on-layoffs-to-free-up-room-for-ai-may-be-caught-out-in-the-long-run
