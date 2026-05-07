@@ -940,3 +940,9 @@ https://towardsdatascience.com/give-your-ai-unlimited-updated-context/
 https://towardsdatascience.com/how-major-reasoning-models-converge-to-the-same-brain-as-they-model-reality-increasingly-better/
 https://www.techradar.com/tech/amazon-is-slashing-prices-on-its-top-rated-running-and-walking-shoes-for-summer-40-percent-off-nike-new-balance-hoka-and-more
 https://www.techradar.com/health-fitness/fitness-trackers/google-fitbit-air-preorders-where-to-buy-the-latest-budget-fitness-tracker-for-free-with-a-trade-in
+https://towardsdatascience.com/the-joy-of-typing/
+https://www.techradar.com/pro/security/what-started-as-someone-potentially-trying-to-remove-the-background-from-a-selfie-ended-with-a-custom-net-stealer-rifling-through-their-browser-passwords-experts-warn-that-free-image-editor-tool-could-actually-be-dangerous-malware
+https://www.techradar.com/pro/bt-lays-out-plans-to-become-digital-backbone-of-the-uk-for-consumers-and-businesses-alike
+https://www.techradar.com/televisions/your-next-tv-could-cost-as-little-as-gbp4-50-per-month-with-these-savings-on-sky-glass
+https://github.com/editor-code-assistant/eca
+https://github.com/milvus-io/milvus
