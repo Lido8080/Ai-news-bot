@@ -918,3 +918,8 @@ https://remoteOK.com/remote-jobs/remote-lead-instructor-aerospace-technician-cor
 learning_2026-05-07
 https://github.com/sno-ai/mda
 https://github.com/chr15m/runprompt
+https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/
+https://www.techradar.com/home/coffee-machines/kitchenaid-semi-automatic-espresso-machine-review
+https://github.com/robotframework/robotframework
+https://github.com/apify/crawlee-python
+https://github.com/Zackriya-Solutions/meetily
