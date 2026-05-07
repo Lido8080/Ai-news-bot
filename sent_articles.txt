@@ -946,3 +946,12 @@ https://www.techradar.com/pro/bt-lays-out-plans-to-become-digital-backbone-of-th
 https://www.techradar.com/televisions/your-next-tv-could-cost-as-little-as-gbp4-50-per-month-with-these-savings-on-sky-glass
 https://github.com/editor-code-assistant/eca
 https://github.com/milvus-io/milvus
+https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api
+https://openai.com/index/testing-ads-in-chatgpt
+https://zapier.com/blog/claude-code-vs-cursor
+https://zapier.com/blog/cursor-alternatives
+https://www.techradar.com/pro/like-a-microscopic-predator-chinese-scientists-create-tiny-robotic-vacuum-to-hunt-radioactive-pollution-and-clean-the-worlds-oceans
+https://www.techradar.com/streaming/paramount-plus/marshals-a-yellowstone-story-episode-11-release-date-time-cbs
+https://github.com/HKUDS/LightRAG
+https://github.com/NVIDIA-NeMo/Gym
+https://github.com/modal-labs/modal-examples
