@@ -955,3 +955,13 @@ https://www.techradar.com/streaming/paramount-plus/marshals-a-yellowstone-story-
 https://github.com/HKUDS/LightRAG
 https://github.com/NVIDIA-NeMo/Gym
 https://github.com/modal-labs/modal-examples
+https://zapier.com/blog/zapier-mcp-guide
+https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/
+https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/
+https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/
+https://aitnews.com/2026/05/08/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d9%86%d9%81%d9%8a-%d8%aa%d9%82%d9%84%d9%8a%d8%af-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-ios-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d9%81%d9%8a-%d8%a3%d9%86%d8%af%d8%b1%d9%88/
+https://www.techradar.com/pro/razer-partners-with-p2p-for-ai-network-to-deliver-over-11-000-unique-images-at-just-usd0-01-per-generation-during-its-april-fools-viral-3d-ai-companion-campaign-no-cloud-subscription-needed
+https://www.techradar.com/health-fitness/smartwatches/your-next-samsung-galaxy-watch-could-dramatically-reduce-your-chances-of-injury-thanks-to-this-one-clever-feature
+https://github.com/qingchencloud/clawpanel
+https://github.com/MemPalace/mempalace
+https://github.com/qingchencloud/clawpanel
