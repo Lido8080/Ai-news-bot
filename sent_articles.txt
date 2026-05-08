@@ -1001,3 +1001,10 @@ https://www.techradar.com/pro/static-network-baselines-wont-survive-agentic-ai
 https://github.com/esengine/DeepSeek-Reasonix
 https://github.com/frain-dev/convoy
 https://github.com/strukto-ai/mirage
+https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/
+https://towardsdatascience.com/unified-agentic-memory-across-harnesses-using-hooks/
+https://www.techradar.com/pro/security/canvas-school-login-portals-hacked-as-instructure-hack-apparently-gets-even-worse
+https://www.techradar.com/tablets/honor-magic-pad-4-review
+https://github.com/huggingface/peft
+https://github.com/lightningpixel/modly
+https://github.com/Arvincreator/project-golem
