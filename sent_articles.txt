@@ -985,3 +985,9 @@ https://github.com/tailcallhq/forgecode
 https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/
 https://www.techradar.com/how-to-watch/tv-shows/rupauls-drag-race-all-stars-s11
 https://github.com/blueberrycongee/Lumina-Note
+https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa
+https://github.com/kvcache-ai/Mooncake
+https://github.com/MemTensor/MemOS
+https://github.com/judge0/judge0
+https://github.com/otwld/ollama-helm
+https://github.com/cloudwego/eino
