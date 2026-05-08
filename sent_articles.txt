@@ -1044,3 +1044,7 @@ https://github.com/thesysdev/openui
 https://github.com/huggingface/transformers
 https://github.com/KohakuBlueleaf/LyCORIS
 https://github.com/pollockjj/ComfyUI-MultiGPU
+https://openai.com/index/running-codex-safely
+https://www.techradar.com/health-fitness/amazon-is-slashing-prices-of-best-selling-womens-running-shoes-from-nike-saucony-brooks-asics-and-more-here-are-28-deals-you-should-make-a-sprint-for
+https://www.techradar.com/ai-platforms-assistants/the-netherlands-ambitious-homegrown-ai-model-enters-the-real-world
+https://github.com/python-telegram-bot/python-telegram-bot
