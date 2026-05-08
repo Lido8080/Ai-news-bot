@@ -1048,3 +1048,7 @@ https://openai.com/index/running-codex-safely
 https://www.techradar.com/health-fitness/amazon-is-slashing-prices-of-best-selling-womens-running-shoes-from-nike-saucony-brooks-asics-and-more-here-are-28-deals-you-should-make-a-sprint-for
 https://www.techradar.com/ai-platforms-assistants/the-netherlands-ambitious-homegrown-ai-model-enters-the-real-world
 https://github.com/python-telegram-bot/python-telegram-bot
+https://www.techradar.com/pro/a-solution-to-our-data-center-woes-covering-californias-canals-with-solar-panels-could-generate-a-staggering-13gw-of-clean-energy-and-save-enough-water-for-two-million-people-so-why-the-opposition
+https://github.com/actions/create-github-app-token
+https://github.com/authorjapps/zerocode
+https://github.com/nuwax-ai/nuwax
