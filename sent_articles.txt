@@ -1008,3 +1008,12 @@ https://www.techradar.com/tablets/honor-magic-pad-4-review
 https://github.com/huggingface/peft
 https://github.com/lightningpixel/modly
 https://github.com/Arvincreator/project-golem
+https://towardsdatascience.com/when-customers-churn-at-renewal-was-it-the-price-or-the-project/
+https://aitnews.com/2026/05/08/xai-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b3%d8%a7%d8%b9%d8%af-grok-%d9%84%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a8%d9%86%d8%b8%d8%a7%d9%85-carplay/
+https://aitnews.com/2026/05/08/openai-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%86%d9%85%d8%a7%d8%b0%d8%ac-%d8%b5%d9%88%d8%aa%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%84%d8%aa%d9%81%d8%a7%d8%b9%d9%84%d8%a7%d8%aa-%d8%a7/
+https://aitnews.com/2026/05/08/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%ad%d8%b3%d9%91%d9%86-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab-%d8%a8%d9%85%d9%8a%d8%b2%d8%a9-%d9%86%d8%b5%d8%a7%d8%a6%d8%ad-%d8%a7%d9%84%d8%ae/
+https://www.techradar.com/pro/why-ai-auditability-is-what-every-security-leader-should-be-talking-about
+https://www.techradar.com/pro/security/openai-rolls-out-new-model-for-cybersecurity-teams-a-month-after-anthropics-mythos-debut
+https://www.techradar.com/audio/earbuds-airpods/disc-style-fit-of-apples-original-ipod-buds-but-with-hi-fi-quality-sound-and-a-usb-c-cable
+https://github.com/basicmachines-co/basic-memory
+https://github.com/scaleapi/llm-engine
