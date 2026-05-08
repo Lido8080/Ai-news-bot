@@ -1052,3 +1052,6 @@ https://www.techradar.com/pro/a-solution-to-our-data-center-woes-covering-califo
 https://github.com/actions/create-github-app-token
 https://github.com/authorjapps/zerocode
 https://github.com/nuwax-ai/nuwax
+https://www.techradar.com/audio/i-tried-the-lossless-audio-test-and-couldnt-believe-my-ears-can-you-really-tell-the-difference-between-lossless-audio-and-plain-old-mp3-versions-of-your-favorite-tunes
+https://www.techradar.com/pro/fuelled-by-ai-microns-usd50-billion-chip-factory-in-idaho-will-use-billions-of-litres-of-water-every-year-but-the-us-tech-giant-stays-silent-on-where-that-new-water-will-come-from
+https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-now-lets-you-nominate-a-trusted-contact-who-gets-alerted-if-your-interaction-with-ai-indicates-a-serious-safety-concern
