@@ -991,3 +991,9 @@ https://github.com/MemTensor/MemOS
 https://github.com/judge0/judge0
 https://github.com/otwld/ollama-helm
 https://github.com/cloudwego/eino
+https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/
+https://www.techradar.com/pro/the-climate-costs-are-insane-why-chrome-users-are-outraged-over-a-forced-4gb-gemini-ai-update-that-may-affect-billions-worldwide-without-their-consent-and-it-even-redownloads-automatically-when-deleted
+https://www.techradar.com/pro/balancing-control-and-innovation-for-mission-critical-communications
+https://www.techradar.com/phones/google-pixel-phones/own-a-google-pixel-phone-android-17-might-finally-let-you-remove-the-home-screen-search-bar
+https://github.com/kessler/gemma-gem
+https://github.com/HaveAGitGat/Tdarr
