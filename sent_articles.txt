@@ -1017,3 +1017,15 @@ https://www.techradar.com/pro/security/openai-rolls-out-new-model-for-cybersecur
 https://www.techradar.com/audio/earbuds-airpods/disc-style-fit-of-apples-original-ipod-buds-but-with-hi-fi-quality-sound-and-a-usb-c-cable
 https://github.com/basicmachines-co/basic-memory
 https://github.com/scaleapi/llm-engine
+https://blog.google/company-news/inside-google/company-announcements/the-small-brief/
+https://huggingface.co/blog/allenai/emo
+https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/
+https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/
+https://aitnews.com/2026/05/08/airpods-%d8%aa%d8%b1%d9%89-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%a2%d8%a8%d9%84-%d8%aa%d8%b7%d9%88%d9%91%d8%b1-%d8%b3%d9%85%d8%a7%d8%b9%d8%a7%d8%aa%d9%87%d8%a7-%d8%a8%d9%83%d8%a7%d9%85%d9%8a/
+https://aitnews.com/2026/05/08/openai-%d8%aa%d9%85%d9%86%d8%ad-codex-%d8%a7%d9%84%d9%82%d8%af%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%af%d8%a7%d8%ae%d9%84-%d9%85%d8%aa%d8%b5%d9%81%d8%ad-%d8%ac%d9%88%d8%ac/
+https://aitnews.com/2026/05/08/%d9%85%d9%8a%d8%aa%d8%a7-%d8%aa%d8%b9%d9%8a%d8%af-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%a5%d9%86%d8%b3%d8%aa%d8%a7%d8%ac%d8%b1%d8%a7%d9%85-%d9%81%d9%8a-%d8%a2%d9%8a%d8%a8/
+https://www.techradar.com/phones/phone-accessories/dji-osmo-mobile-8p-review
+https://www.techradar.com/pro/security/threat-actors-are-clearly-adapting-to-the-widespread-interest-in-popular-ai-tools-ai-fans-beware-hackers-create-a-fake-claude-site-to-spread-backdoor-malware
+https://www.techradar.com/seasonal-sales/home-depots-spring-sale-feels-like-memorial-day-has-already-arrived-40-percent-off-patio-furniture-grills-appliances-tools-and-more
+https://github.com/vercel/ai
+https://github.com/NadirRouter/NadirClaw
