@@ -1068,3 +1068,6 @@ learning_2026-05-09
 https://github.com/nielsfaber/scheduler-card
 https://github.com/rtenorioh/Press-Ticket
 https://github.com/Blarc/ai-commits-intellij-plugin
+https://www.techradar.com/pro/flexispot-c7-morpher-office-chair-review
+https://github.com/mybigday/llama.rn
+https://github.com/Zafer-Liu/Data-Analysis-Agent
