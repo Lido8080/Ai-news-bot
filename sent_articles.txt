@@ -1071,3 +1071,4 @@ https://github.com/Blarc/ai-commits-intellij-plugin
 https://www.techradar.com/pro/flexispot-c7-morpher-office-chair-review
 https://github.com/mybigday/llama.rn
 https://github.com/Zafer-Liu/Data-Analysis-Agent
+https://github.com/alvinreal/awesome-openclaw
