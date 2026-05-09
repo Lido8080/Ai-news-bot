@@ -1065,3 +1065,6 @@ https://realpython.com/podcasts/rpp/294/
 https://www.freecodecamp.org/news/how-to-build-a-live-options-database-in-python-a-complete-guide/
 https://remoteOK.com/remote-jobs/remote-tech-lead-zensurance-1131509
 learning_2026-05-09
+https://github.com/nielsfaber/scheduler-card
+https://github.com/rtenorioh/Press-Ticket
+https://github.com/Blarc/ai-commits-intellij-plugin
